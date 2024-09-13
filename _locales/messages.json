@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Galaxy Launcher"
+  },
+  "extensionDescription": {
+    "message": "Um simples lançador para Galaxy.org, Galaxy.eu e Galaxy.org.au."
+  },
+  "openGalaxyOrg": {
+    "message": "Abrir Galaxy.org"
+  },
+  "openGalaxyEu": {
+    "message": "Abrir Galaxy.eu"
+  },
+  "openGalaxyAu": {
+    "message": "Abrir Galaxy.org.au"
+  }
+}
