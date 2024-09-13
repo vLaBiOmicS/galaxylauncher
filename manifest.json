@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Galaxy Launcher",
+  "version": "1.0",
+  "default_locale": "en",
+  "description": "A simple launcher for Galaxy.org, Galaxy.eu, and Galaxy.org.au.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "permissions": ["tabs", "activeTab"],
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
